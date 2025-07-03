@@ -1,3 +1,4 @@
+
 # 💡 LeetFriend
 
 LeetFriend is a Chrome extension designed to supercharge your LeetCode problem-solving experience. It displays progressive hints inside a draggable and resizable overlay directly on LeetCode problem pages. With just a click or keyboard shortcut, you can move through hints, from mild nudges to full solutions, without ever leaving the page.
@@ -5,6 +6,9 @@ LeetFriend is a Chrome extension designed to supercharge your LeetCode problem-s
 The overlay also shows beautifully formatted code snippets with syntax highlighting, line numbers, and copy buttons.
 
 ---
+
+# Meet Leetu! 
+![leetuImage](icons/leetuhi.png)
 
 ## ✨ Features
 

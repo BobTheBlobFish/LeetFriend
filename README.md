@@ -8,7 +8,7 @@ The overlay also shows beautifully formatted code snippets with syntax highlight
 ---
 
 # Meet Leetu! 
-![leetuImage](icons/leetuhi.png)
+![leetuImage](icons/LeetuHi.png)
 
 ## ✨ Features
 

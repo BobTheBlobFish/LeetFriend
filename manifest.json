@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "LeetFriend",
+    "version": "1.0",
+    "description": "Get AI-generated staged hints while practicing LeetCode.",
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://leetcode.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "128": "icons/icon128.png"
+    }
+  }
+  

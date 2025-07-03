@@ -45,7 +45,6 @@ prompt = ChatPromptTemplate.from_messages([
         "Add a blank line before and after each bullet list to visually separate it from other content. "
         "Ensure bullet lists are visually grouped under their subheadings, with proper indentation and spacing. "
         "Use a few emojis to make it more engaging. Make sure to format the hints with good spacing, line breaks, and pointers wherever appropriate (similar to how ChatGPT generates). "
-        "Whenever you include a code block (using triple backticks), add code line numbers as part of the markdown output, so each line of code is prefixed with its line number (e.g., 1: ... 2: ... etc). This should be visible to the user."
     )),
     ("user", "{question}")
 ])
